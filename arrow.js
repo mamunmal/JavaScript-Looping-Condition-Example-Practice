@@ -1,3 +1,4 @@
+//Single parameter arrow function
 const student = {
     name: 'John',
     age: 25,
